@@ -3300,7 +3300,7 @@ const data = [
 
 { album: "Um Brinde Ao Risco", data: "2023-10-31", banda: "Code Veronica" }, 
 
-{ album: "Your tears won't bring me back", data: "2025-10-11", banda: "Nitazeno" }, 
+{ album: "Your tears won't bring me back / EP", data: "2025-10-11", banda: "Nitazeno" }, 
 
 { album: "KYLESA", data: "2002-06-13", banda: "Kylesa" },
 { album: "To Walk A Middle Course", data: "2005-03-23", banda: "Kylesa" },
@@ -6187,6 +6187,7 @@ const data = [
 { album: "Dead Again", data: "2007-03-13", banda: "Type O Negative" },
 
 ];
+
 
 
 
