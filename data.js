@@ -347,6 +347,7 @@ const data = [
 { album: "Bloodlust", data: "2017-03-31", banda: "Body Count" },
 { album: "Carnivore", data: "2020-03-06", banda: "Body Count" },
 { album: "Merciless", data: "2024-11-21", banda: "Body Count" },
+{ album: "Arran's Obsession", data: "2026-01-21", banda: "Body Count" },
 
 { album: "Realm of Chaos", data: "1989-10-28", banda: "Bolt Thrower" },
 { album: "War Master", data: "1991-09-01", banda: "Bolt Thrower" },
@@ -3257,6 +3258,7 @@ const data = [
 { album: "Super Collider", data: "2013-01-01", banda: "Megadeth" },
 { album: "Dystopia", data: "2016-01-22", banda: "Megadeth" },
 { album: "The Sick, The Dying... And The Dead!", data: "2022-09-02", banda: "Megadeth" },
+{ album: "Megadeth", data: "2026-01-23", banda: "Megadeth" },
 
 { album: "Gluey Porch", data: "1987-01-01", banda: "Melvins" },
 { album: "Bullhead", data: "1991-05-03", banda: "Melvins" },
@@ -5710,4 +5712,5 @@ const data = [
 { album: "Dead Again", data: "2007-03-13", banda: "Type O Negative" },
 
 ];
+
 
