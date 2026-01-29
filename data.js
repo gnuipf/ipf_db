@@ -21,7 +21,7 @@ const data = [
   { album: "Old Record", data: "2008-10-26", banda: "A Day To Remember" },
   { album: "Homesick", data: "2009-02-03", banda: "A Day To Remember" },
   { album: "What Separates Me From You", data: "2010-11-16", banda: "A Day To Remember" },
-  { album: "Commom Courtsy", data: "2013-10-08", banda: "A Day To Remember" },
+  { album: "Commom Courtesy", data: "2013-10-08", banda: "A Day To Remember" },
   { album: "Bad Vibrations", data: "2016-09-02", banda: "A Day To Remember" },
   { album: "You're Welcome", data: "2021-03-05", banda: "A Day To Remember" },
   { album: "Big Ole Album Vol. 1", data: "2025-02-19", banda: "A Day To Remember" },
@@ -83,7 +83,7 @@ const data = [
   { album: "Space Invader", data: "2014-08-15", banda: "Ace Frehley" },
   { album: "Origins, Vol. 1", data: "2016-04-15", banda: "Ace Frehley" },
   { album: "Spaceman", data: "2018-10-19", banda: "Ace Frehley" },
-  { album: "Orgins, Vol. 2", data: "2020-09-18", banda: "Ace Frehley" },
+  { album: "Origins, Vol. 2", data: "2020-09-18", banda: "Ace Frehley" },
   { album: "10000 Volts", data: "2024-02-23", banda: "Ace Frehley" },
   
   { album: "Aerosmith", data: "1973-01-05", banda: "Aerosmith" },
@@ -93,7 +93,7 @@ const data = [
   { album: "Draw The Line", data: "1977-12-01", banda: "Aerosmith" },
   { album: "Night In The Ruts", data: "1979-11-16", banda: "Aerosmith" },
   { album: "Rock In A Hard Place", data: "1982-08-27", banda: "Aerosmith" },
-  { album: "Done With Mirros", data: "1985-01-01", banda: "Aerosmith" },
+  { album: "Done With Mirrors", data: "1985-01-01", banda: "Aerosmith" },
   { album: "Permanent Vacation", data: "1987-01-01", banda: "Aerosmith" },
   { album: "Pump", data: "1989-01-01", banda: "Aerosmith" },
   { album: "Get A Grip", data: "1993-01-01", banda: "Aerosmith" },
@@ -107,7 +107,7 @@ const data = [
   { album: "Very Proud of Ya", data: "1996-01-01", banda: "AFI" },
   { album: "Shut Your Mouth And Open Your Eyes", data: "1997-01-01", banda: "AFI" },
   { album: "Black Sails In The Sunset", data: "1999-01-01", banda: "AFI" },
-  { album: "The Art Of Drowing", data: "2000-01-01", banda: "AFI" },
+  { album: "The Art Of Drowning", data: "2000-01-01", banda: "AFI" },
   { album: "Sing The Sorrow", data: "2003-03-10", banda: "AFI" },
   { album: "DECEMBERUNDERGROUND", data: "2006-05-29", banda: "AFI" },
   { album: "Crash Love", data: "2009-01-01", banda: "AFI" },
@@ -348,7 +348,7 @@ const data = [
   { album: "One And Only", data: "28/06/2024", banda: "Anvil" },
   
   { album: "Plays Metallica by Four Cellos", data: "03/10/1996", banda: "Apocalyptica" },
-  { album: "Inquisiton Symphony", data: "01/01/1998", banda: "Apocalyptica" },
+  { album: "Inquisition Symphony", data: "01/01/1998", banda: "Apocalyptica" },
   { album: "Cult", data: "28/04/2000", banda: "Apocalyptica" },
   { album: "Reflections Revised", data: "02/02/2003", banda: "Apocalyptica" },
   { album: "Apocalyptica", data: "10/01/2005", banda: "Apocalyptica" },
@@ -380,7 +380,7 @@ const data = [
   { album: "Pink Elephant", data: "09/05/2025", banda: "Arcade Fire" },
   
   { album: "Black Earth", data: "02/10/1996", banda: "Arch Enemy" },
-  { album: "Sitigmata", data: "21/03/1998", banda: "Arch Enemy" },
+  { album: "Stigmata", data: "21/03/1998", banda: "Arch Enemy" },
   { album: "Burning Bridges", data: "21/05/1999", banda: "Arch Enemy" },
   { album: "Wages of Sin", data: "25/04/2001", banda: "Arch Enemy" },
   { album: "Anthems of Rebellion", data: "13/07/2003", banda: "Arch Enemy" },
@@ -552,7 +552,6 @@ const data = [
   { album: "Barão Vermelho", data: "2004-12-30", banda: "Barão Vermelho" },
   { album: "Barão Pra Sempre", data: "2018-04-20", banda: "Barão Vermelho" },
   { album: "A chave da porta da frente", data: "2019-05-31", banda: "Barão Vermelho" },
-  { album: "Carnaval", data: "2019-07-21", banda: "Barão Vermelho" },
   { album: "VIVA", data: "2019-08-16", banda: "Barão Vermelho" },
   { album: "Cazuza Exagerado Para Sempre", data: "2025-12-11", banda: "Barão Vermelho" },
 
@@ -6415,6 +6414,7 @@ const data = [
 
   
 ];
+
 
 
 
