@@ -4951,6 +4951,7 @@ const data = [
 { album: "Seether Workout", data: "2023-09-29", banda: "Seether" },
 { album: "The Surface Seems So Far", data: "2024-09-20", banda: "Seether" },
 { album: "Seether Workout Vol. 2", data: "2025-10-23", banda: "Seether" },
+{ album: "Seether Workout Vol. 3", data: "2025-11-26", banda: "Seether" },
 
 { album: "Mystic Places of Dawn", data: "1994-04-01", banda: "Septicflesh" },
 { album: "ΕΣΟΠΤΡΟΝ", data: "1995-04-28", banda: "Septicflesh" },
@@ -7616,6 +7617,7 @@ const data = [
 { album: "All We Love We Leave Behind", data: "08-10-2012", banda: "Converge" },
 { album: "The Dusk In Us", data: "03-11-2017", banda: "Converge" },
 { album: "Bloodmoon: I", data: "19-11-2021", banda: "Converge" },
+{ album: "Love Is Not Enough", data: "13-02-2026", banda: "Converge" },  
 
 { album: "American Nervoso", data: "20-05-1998", banda: "Botch" },
 { album: "We Are the Romans", data: "02-11-1999", banda: "Botch" },
@@ -7989,6 +7991,7 @@ const data = [
 
   
 ];
+
 
 
 
