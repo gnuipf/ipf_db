@@ -3711,6 +3711,7 @@ const data = [
 { album: "Wilder Mind", data: "2015-05-01", banda: "Mumford & Sons" },
 { album: "Delta", data: "2018-11-16", banda: "Mumford & Sons" },
 { album: "RUSHMERE", data: "2025-03-28", banda: "Mumford & Sons" },
+{ album: "Prizefighter", data: "2026-02-20", banda: "Mumford & Sons" },
 
 { album: "Isn't Anything", data: "1988-11-21", banda: "My Bloody Valentine" },
 { album: "loveless", data: "1991-11-04", banda: "My Bloody Valentine" },
@@ -6505,6 +6506,7 @@ const data = [
 { album: "Death Revenge", data: "2017-01-01", banda: "Exhumed" },
 { album: "Horror", data: "2019-10-04", banda: "Exhumed" },
 { album: "To the Dead", data: "2022-10-21", banda: "Exhumed" },
+{ album: "Red Asphalt", data: "2026-02-20", banda: "Exhumed" }, 
 
 { album: "Bonded by Blood", data: "1985-01-01", banda: "Exodus" },
 { album: "Pleasures of The Flesh", data: "1987-10-07", banda: "Exodus" },
@@ -7991,6 +7993,7 @@ const data = [
 
   
 ];
+
 
 
 
