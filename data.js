@@ -1961,6 +1961,7 @@ const data = [
 { album: "Tallulah", data: "2019-08-09", banda: "Feeder" },
 { album: "Torpedo", data: "2022-03-18", banda: "Feeder" },
 { album: "Black / Red", data: "2024-04-05", banda: "Feeder" },
+{ album: "Comfort In Sound (Live)", data: "27-02-2026", banda: "Feeder" },
 
 { album: "Midnattens Widunder", data: "1999-02-15", banda: "Finntroll" },
 { album: "Jaktens Tid", data: "2001-09-18", banda: "Finntroll" },
