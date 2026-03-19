@@ -7230,7 +7230,7 @@ const data = [
 { "album": "The Somberlain", "data": "1993-04-27", "banda": "Dissection" },
 { "album": "Storm of the Light's Bane", "data": "1995-03-30", "banda": "Dissection" },
 { "album": "Midsummer Massacre", "data": "2006-01-01", "banda": "Dissection" },
-{ "album": "Reinkaos", "data": "2006-03-23", "banda": "Dissection" }
+{ "album": "Reinkaos", "data": "2006-03-23", "banda": "Dissection" },
 
 { "album": "Zombie Attack", "data": "1986-07-01", "banda": "Tankard" },
 { "album": "Chemical Invasion", "data": "1987-10-01", "banda": "Tankard" },
